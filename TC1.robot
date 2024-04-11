@@ -22,7 +22,7 @@ TC_1
     Wait Until Page Contains Element    com.experitest.ExperiBank:id/nameTextField
     ...    timeout=20
     Input Text    com.experitest.ExperiBank:id/nameTextField    tama
-    Swipe    400    737    440    737
+    Swipe    500    937    540    937
     Wait Until Page Contains Element    com.experitest.ExperiBank:id/countryTextField
     ...    timeout=20
     Input Text    com.experitest.ExperiBank:id/countryTextField    Russia
